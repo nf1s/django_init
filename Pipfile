@@ -17,7 +17,7 @@ inflection = "*"
 
 [packages]
 dj-database-url = "==0.5.*"
-django = ">=2.2.4"
+django = "==2.*"
 django-cors-headers = "==3.0.*"
 django-rest-swagger = "==2.2.*"
 djangorestframework = "==3.9.*"
